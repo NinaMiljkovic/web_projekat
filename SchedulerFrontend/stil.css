@@ -1,0 +1,54 @@
+#loginStrana, #registerStrana, #indexStrana {
+    display: flex;
+
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+
+    flex-grow: 1;
+
+}
+#loginStrana{
+    background-image:url('teamwork.jpg');
+}
+#registerStrana{
+    background-image: url('registration.png');
+}
+#indexStrana{
+    background-image: url('working.jpg');
+}
+h3{
+    text-align: center;
+    font-size:xx-large;
+    margin-bottom: 0.5cm;
+    text-decoration: crimson;
+    color:crimson;
+    font-style:italic;
+}
+table,tr,th{
+    border: 1px solid black;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+table
+{
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    height: 100px;
+    font-size:larger;
+}
+input{
+    width: 200px;
+    height: 50px;
+}
+#dugme, #logout{
+    width: 120px;
+    height: 50px;
+    background-color: bisque;
+}
+th{
+    background-color: bisque;
+}
