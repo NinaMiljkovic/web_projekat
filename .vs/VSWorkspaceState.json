@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SchedulerBackend",
+    "\\SchedulerBackend\\SchedulerBackend",
+    "\\SchedulerBackend\\SchedulerBackend\\SchedulerBackend",
+    "\\SchedulerFrontend"
+  ],
+  "SelectedNode": "\\SchedulerBackend\\SchedulerBackend\\SchedulerBackend\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
